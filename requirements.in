@@ -6,9 +6,15 @@ numpy
 plotly
 torch
 
+# Notebooks
+jupyterlab
+ipykernel
+
 # Interpretability Tools
 transformer-lens
+huggingface_hub
 
 # Util tools
+dotenv
 nbqa
 black
