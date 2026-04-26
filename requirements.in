@@ -1,0 +1,14 @@
+# DS
+pandas
+matplotlib
+seaborn
+numpy
+plotly
+torch
+
+# Interpretability Tools
+transformer-lens
+
+# Util tools
+nbqa
+black
